@@ -4,3 +4,5 @@ i have done my college in kurnool.i studied very well .right now i am intrested 
 enjoyment,movies,tennis etc.,
 i want to prepare for civil sevices .
 this is my biagoraphy.
+
+you can use git rebase for importing latest change into your child branch from master branch.
