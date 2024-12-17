@@ -3,4 +3,4 @@ i have dont my graduation in bsc computer SpeechSynthesisUtterance.apply
 
 
 
-This is About college.
+This is About school.
